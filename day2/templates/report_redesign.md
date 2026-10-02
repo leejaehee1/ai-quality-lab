@@ -52,15 +52,13 @@
 
 ## 6. Confusion Matrix
 
-| precision  |  recall |  f1score |  support |
+| | precision | recall | f1-score | support |
 | --- | --- | --- | --- | --- |
-| malignant  |    0.981   |  0.981  |   0.981  | 53 |
-| benign  |    0.989  |   0.989  |   0.989   | 90 |
-|||||
-
-    accuracy                          0.986       143
-   macro avg      0.985     0.985     0.985       143
-weighted avg      0.986     0.986     0.986       143
+| malignant|0.981|0.981|0.981|53|
+| benign|0.989|0.989|0.989|90|
+|    accuracy  |          |            |  0.986    |   143|
+|   macro avg   |   0.985  |   0.985  |   0.985  |     143|
+|weighted avg   |   0.986   |  0.986  |   0.986   |    143|
 
 <img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/0f10b285-5350-44e9-9139-734e539637fa" />
 
