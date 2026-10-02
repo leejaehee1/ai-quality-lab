@@ -60,7 +60,7 @@
 |   macro avg   |   0.985  |   0.985  |   0.985  |     143|
 |weighted avg   |   0.986   |  0.986  |   0.986   |    143|
 
-<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/0f10b285-5350-44e9-9139-734e539637fa" />
+<img width="468" height="276" alt="image" src="https://github.com/user-attachments/assets/0f10b285-5350-44e9-9139-734e539637fa" />
 
 
 ## 7. 한 줄 요약 (경영진 보고용)
